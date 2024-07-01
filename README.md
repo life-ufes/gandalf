@@ -42,6 +42,19 @@ Existem diversos pacotes instalados no *environment* `gandalf`. Para saber quais
 conda list
 ```
 
+## Dependências
+
+||||| 
+|------------------|--------------|---------------------|-------------|
+| pretrainedmodels | tensorboard  | scikit-learn        | sacred      |
+| joblib           | tensorboardX | imgaug              | gradio      |
+| transformers     | torch        | opencv-python       | onnx        |
+| praw             | torchvision  | pandas              | jupyter-lab |
+| torchsummary     | matplotlib   | pillow              | glob2       |
+| pytest           | scipy        | tqdm                |             |
+| seaborn          | numpy        | python-telegram-bot |             | 
+
+
 ## Por que Gandalf?
 Primeiramente, você não deveria estar fazendo essa pergunta! Mas, uma vez que chegou até aqui...
 
